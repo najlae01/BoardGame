@@ -1,6 +1,7 @@
 # BoardGame
 
-This project simulates different kinds of pawns moving on a grid.
+This project simulates different kinds of pawns moving on a Board.
+  Leave a star if you find it useful please :)
  
 ## UML Class Diagram :
 
