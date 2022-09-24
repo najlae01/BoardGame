@@ -8,8 +8,8 @@ This project simulates different kinds of pawns moving on a grid.
 
 ## Output :
 
-<img align="center" alt="screen" width="1000px" src="fst.png" />
+<img align="center" alt="screen" width="1000px" src="output/fst.png" />
 
-<img align="center" alt="screen" width="1000px" src="sec.png" />
+<img align="center" alt="screen" width="1000px" src="output/sec.png" />
 
-<img align="center" alt="screen" width="1000px" src="thrd.png" />
+<img align="center" alt="screen" width="1000px" src="output/thrd.png" />
