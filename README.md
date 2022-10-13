@@ -11,7 +11,7 @@ This project simulates different kinds of pawns moving on a Board.
 
 ## Output :
 
-<img align="center" alt="screen" width="1000px" src="output/fst.png" />
+<img align="center" alt="screen" width="1000px" src="output/fst.png"/>
 
 <img align="center" alt="screen" width="1000px" src="output/sec.png" />
 
