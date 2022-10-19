@@ -20,7 +20,7 @@ class RandomPawn(Pawn):
 
     def __init__(self, board: Board) -> None:
         """ This method generates randomly a row and a column
-        to start with,  this Pawn's symbol is R.
+        to start with, this Pawn's symbol is R.
         This constructor calls the superclass Pawn's constructor
         to create this new RandomPawn object."""
         self._board = board
